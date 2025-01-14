@@ -310,6 +310,11 @@
         <mxCell id="l6ho4uDotmlk74_fmg1N-150" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" source="l6ho4uDotmlk74_fmg1N-147" target="l6ho4uDotmlk74_fmg1N-149">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="l6ho4uDotmlk74_fmg1N-153" value="发布内容" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l6ho4uDotmlk74_fmg1N-150">
+          <mxGeometry x="0.094" relative="1" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
